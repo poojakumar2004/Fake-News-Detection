@@ -71,6 +71,11 @@ The system follows a structured pipeline:
 * Social media monitoring tools
 * Explainable AI for transparency
 
+## Output
+
+<img width="775" height="420" alt="Screenshot 2026-05-19 212843" src="https://github.com/user-attachments/assets/c78e11c2-df0d-4f16-ab93-e06f050e5809" />
+
+
 ## 🤝 Contribution Vision
 
 This project encourages collaboration to fight misinformation. Contributions in the form of:
