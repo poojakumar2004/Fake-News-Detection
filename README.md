@@ -1,12 +1,6 @@
-Here’s a **professional README-style project description** for your **Fake News Detection** project in the same format as Foodify, but cleaner and more impressive:
-
----
-
 # 🧠 Fake News Detection
 
 **Fake News Detection** is a machine learning-based web application designed to classify news articles as **real or fake**. The system uses Natural Language Processing (NLP) techniques and trained ML models to analyze news content and predict its authenticity, helping users identify misinformation effectively.
-
----
 
 ## 🚀 Features
 
@@ -88,8 +82,6 @@ Fake-News-Detection/
 └── README.md
 ```
 
----
-
 ## ⚙️ Installation & Setup
 
 ### 🔧 Backend Setup
@@ -138,12 +130,6 @@ This project helped in understanding:
 * End-to-end ML project deployment
 * API integration between frontend and backend
 
----
-## 🧩 System Architecture
-
-<img width="679" height="450" alt="Screenshot 2026-05-19 211538" src="https://github.com/user-attachments/assets/beb5bfd3-f334-45a0-84bb-b8b04ab24316" />
-
-
 ## 📊 Use Cases
 
 * 📚 **Students & Researchers** – Study misinformation patterns
@@ -158,25 +144,23 @@ This project helped in understanding:
 * Cannot guarantee 100% accuracy
 * May struggle with satire or highly contextual news
 
-## 🚀 Future Scope
+---
+## 🧩 System Architecture
 
-* Integration with real-time news APIs
-* Deep Learning models like LSTM & Transformers
-* Multilingual fake news detection
-* Social media monitoring tools
-* Explainable AI for transparency
-
-## 👨‍💻 Author
-
-**Pooja Kumar**
-🔗 LinkedIn: [https://www.linkedin.com/in/pooja-kumar-ba7b263aa/](https://www.linkedin.com/in/pooja-kumar-ba7b263aa/)
-🧠 LeetCode: [https://leetcode.com/u/PoojaKumar2004/](https://leetcode.com/u/PoojaKumar2004/)
-
+<img width="679" height="450" alt="Screenshot 2026-05-19 211538" src="https://github.com/user-attachments/assets/beb5bfd3-f334-45a0-84bb-b8b04ab24316" />
 
 ## Output
 
 <img width="775" height="420" alt="Screenshot 2026-05-19 212843" src="https://github.com/user-attachments/assets/c78e11c2-df0d-4f16-ab93-e06f050e5809" />
 
+## 👨‍💻 Author
+
+**Pooja Kumar**
+https://github.com/poojakumar2004/
+
+## License
+
+This project is developed for learning and academic purposes.
 
 ## 📢 Final Thought
 
