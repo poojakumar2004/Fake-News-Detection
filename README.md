@@ -46,8 +46,7 @@ The system follows a structured pipeline:
 
 ## 🧩 System Architecture
 
-```id="1df73o"
-User Input → Text Processing → Feature Extraction → ML Model → Prediction Output
+<img width="679" height="450" alt="Screenshot 2026-05-19 211538" src="https://github.com/user-attachments/assets/beb5bfd3-f334-45a0-84bb-b8b04ab24316" />
 
 
 ## 📊 Use Cases
